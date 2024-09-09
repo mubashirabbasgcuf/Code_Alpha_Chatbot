@@ -21,7 +21,6 @@ To run the chatbot locally, you need to have Python installed on your machine al
     ```python
     import nltk
     nltk.download('punkt')
-    nltk.download('wordnet')
     ```
 
 4. Run the chatbot:
